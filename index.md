@@ -1,3 +1,5 @@
+<meta content='INDEX, FOLLOW' name='robots'/>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/yomtow/web_app_inbrowser.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
